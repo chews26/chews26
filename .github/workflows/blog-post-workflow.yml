@@ -16,4 +16,8 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: "4"
+          remove_duplicates: true
           feed_list: "https://shinelee26.tistory.com/rss"
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+          accept_header: "text/xml"
