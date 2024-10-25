@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day18](https://shinelee26.tistory.com/27)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day17](https://shinelee26.tistory.com/26)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day16](https://shinelee26.tistory.com/25)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day15](https://shinelee26.tistory.com/24)
-- [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day14](https://shinelee26.tistory.com/23)
 <!-- BLOG-POST-LIST:END -->
