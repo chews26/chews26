@@ -1,4 +1,10 @@
 # Hi there 👋
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
 
 <!--
 **chews26/chews26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
