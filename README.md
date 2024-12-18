@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day56](https://shinelee26.tistory.com/61)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day55](https://shinelee26.tistory.com/60)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day53~54](https://shinelee26.tistory.com/59)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day52](https://shinelee26.tistory.com/58)
-- [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day51](https://shinelee26.tistory.com/57)
 <!-- BLOG-POST-LIST:END -->
