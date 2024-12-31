@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [241231 TIL / Trello 프로젝트, GitHub Action CI/CD](https://shinelee26.tistory.com/64)
 - [241220 TIL / Docker + CI/CD](https://shinelee26.tistory.com/63)
 - [241219 TIL / AWS, Docker, Spring Boot, Intellij 활용해서 배포하기](https://shinelee26.tistory.com/62)
 - [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day56](https://shinelee26.tistory.com/61)
-- [2024 스파르타 내일배움캠프 Sping 트랙 참여 // day55](https://shinelee26.tistory.com/60)
 <!-- BLOG-POST-LIST:END -->
