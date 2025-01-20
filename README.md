@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [240120 TIL / Tripf 프로젝트 중간 점검, Tripf 트러블슈팅](https://shinelee26.tistory.com/67)
 - [240107 TIL / Tripf 프로젝트 2~4일차 회의](https://shinelee26.tistory.com/66)
 - [240102 TIL / Tripf 프로젝트 1일차 회의, PostgreSQL GIS](https://shinelee26.tistory.com/65)
 - [241231 TIL / Trello 프로젝트, GitHub Action CI/CD](https://shinelee26.tistory.com/64)
-- [241220 TIL / Docker + CI/CD](https://shinelee26.tistory.com/63)
 <!-- BLOG-POST-LIST:END -->
