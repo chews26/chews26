@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [250507 TIL / 쿠버네티스와 도커 이해하기](https://shinelee26.tistory.com/70)
 - [250213 TIL / Tripf 프로젝트 회고 및 트러블 슈팅](https://shinelee26.tistory.com/69)
 - [250121 TIL / Java, Spring, 기타 CS 지식 정리](https://shinelee26.tistory.com/68)
 - [250120 TIL / Tripf 프로젝트 중간 점검, Tripf 트러블슈팅](https://shinelee26.tistory.com/67)
-- [250107 TIL / Tripf 프로젝트 2~4일차 회의](https://shinelee26.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
