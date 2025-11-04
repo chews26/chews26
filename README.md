@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ## 💻 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[CSS] 블로그에 트리만들기](https://shinelee26.tistory.com/78)
+- [[HTML] 티스토리에 눈내리기](https://shinelee26.tistory.com/79)
+- [[CSS] 티스토리에 트리만들기](https://shinelee26.tistory.com/78)
 - [[OS] OS별 시스템 체크 명령어](https://shinelee26.tistory.com/77)
 - [250820 TIL | 백엔드와 프론트엔드 연동해보기](https://shinelee26.tistory.com/76)
-- [[CSS] 티스토리 마우스 커서 변경하기](https://shinelee26.tistory.com/75)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 Music is my life 
