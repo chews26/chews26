@@ -29,6 +29,3 @@ Here are some ideas to get you started:
 - [[OS] OS별 시스템 체크 명령어](https://shinelee26.tistory.com/77)
 - [250820 TIL | 백엔드와 프론트엔드 연동해보기](https://shinelee26.tistory.com/76)
 <!-- BLOG-POST-LIST:END -->
-
-## 🎧 Music is my life 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317zacmq3xenjbqmh2yvnatklvau&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=317zacmq3xenjbqmh2yvnatklvau&redirect=true)
