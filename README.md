@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## 💻 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [내가 가장 좋아하는 과자는 //](https://shinelee26.tistory.com/81)
 - [[Python] Python 예약어 모음](https://shinelee26.tistory.com/80)
 - [[HTML] 티스토리에 눈내리기](https://shinelee26.tistory.com/79)
 - [[CSS] 티스토리에 트리만들기](https://shinelee26.tistory.com/78)
+- [[OS] OS별 시스템 체크 명령어](https://shinelee26.tistory.com/77)
 <!-- BLOG-POST-LIST:END -->
