@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## 💻 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[노코드툴] 노코드 툴과 업무효율성](https://shinelee26.tistory.com/82)
 - [[Python] Python 예약어 모음](https://shinelee26.tistory.com/80)
 - [[HTML] 티스토리에 눈내리기](https://shinelee26.tistory.com/79)
 - [[CSS] 티스토리에 트리만들기](https://shinelee26.tistory.com/78)
-- [[OS] OS별 시스템 체크 명령어](https://shinelee26.tistory.com/77)
 <!-- BLOG-POST-LIST:END -->
