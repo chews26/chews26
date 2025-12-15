@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## 💻 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[IT인프라] 하드디스크를 안전하게 구성하는법과 RAID](https://shinelee26.tistory.com/85)
 - [[구글폼] 구글폼 마감시간 설정 앱스크립트](https://shinelee26.tistory.com/84)
 - [[Python] 크리스마스와 파이썬의 탄생](https://shinelee26.tistory.com/83)
 - [[노코드툴] 노코드 툴과 업무효율성](https://shinelee26.tistory.com/82)
-- [[Python] Python 예약어 모음](https://shinelee26.tistory.com/80)
 <!-- BLOG-POST-LIST:END -->
